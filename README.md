@@ -26,6 +26,12 @@ Gathering accurate and up-to-date data from multiple sources is challenging.The 
 Housing prices can fluctuate due to various factors like location, demand, and economic changes.The system must adapt to these changes and maintain accuracy.Dealing with inconsistent or missing data from different sources is also a challenge.
 *Maintaining High Accuracy and Reliability:
 The model should consistently provide accurate price predictions.It must be trained with high-quality data and updated regularly to stay relevant.Ensuring the reliability of predictions is crucial for users to trust the system.
+# Goals of AI-Based Real-Time Housing Price Prediction System:  
+1. Accurate Price Prediction: To provide precise and up-to-date house price predictions using advanced machine learning models.  
+2. Real-Time Insights:To deliver real-time information on housing prices, helping users make quick and informed decisions.  
+3. Identify Influencing Factors: To analyze and highlight key factors that affect house prices, such as location, area, number of bedrooms, and market trends.  
+4. Better Decision-Making: To help buyers, sellers, agents, and investors make better decisions by giving them accurate data and insights.  
+5. User-Friendly Experience:To offer an easy-to-use interface with visualizations and interactive tools for comparing prices and viewing trends.  
 
     
 
